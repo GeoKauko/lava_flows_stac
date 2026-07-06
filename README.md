@@ -1,4 +1,4 @@
-# lava flows_stac
+# lava_flows_stac
 Repository to create lava flow outlines in Iceland using STAC. Outlines are structured into a vector data cube.
 
 ## Create environment first with:
